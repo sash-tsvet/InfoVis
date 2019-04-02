@@ -6,11 +6,56 @@ anim called
 restart
 anim called
 restart
+restart
+restart
+restart
+restart
+restart
+restart
+restart
+restart
+HI
+1
+restart
+HI
+1
+[('1.txt', 2, 2, '1.out', True, <Figure size 573.134x429.851 with 0 Axes>), ('1.txt', 2, 2, '1.out', True, <Figure size 573.134x429.851 with 0 Axes>)]
+2
+restart
+anim called
+restart
+anim called
+restart
+restart
+restart
 anim called
 restart
 restart
 anim called
 restart
+anim called
+restart
+anim called
+restart
+anim called
+restart
+anim called
+restart
+anim called
+restart
+anim called
+restart
+anim called
+restart
+anim called
+restart
+restart
+restart
+restart
+anim called
+restart
+restart
+restart
 restart
 anim called
 restart
@@ -20,27 +65,14 @@ restart
 restart
 restart
 restart
+restart
+restart
+restart
+restart
+restart
+restart
 anim called
 restart
 restart
 anim called
-restart
-restart
-anim called
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
-restart
 restart
